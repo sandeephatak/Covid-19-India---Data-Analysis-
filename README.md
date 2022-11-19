@@ -10,5 +10,3 @@
 
 ## Snapshot of the Visualization:
 ![image](https://user-images.githubusercontent.com/118591648/202842868-748fc949-6e55-41aa-850a-f6e3932462a4.png)
-
-## Codes and Files:
